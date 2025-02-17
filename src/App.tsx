@@ -1,5 +1,5 @@
 import React from "react";
-import TaskComponent from "./Task/TaskComponent";
+import TaskComponent from "./components/Task/TaskComponent";
 
 // Styles
 import "./App.css";

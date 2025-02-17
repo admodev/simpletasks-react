@@ -1,5 +1,5 @@
 import React from "react";
-import Task from "./taskInterface";
+import Task from "../../features/tasks/taskInterface";
 
 // Styles
 import styles from "./task.module.css";
