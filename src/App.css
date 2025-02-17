@@ -1,0 +1,14 @@
+.appTitle {
+  font-size: 32px;
+  margin: 25px auto;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.appContainer {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
